@@ -1,2 +1,2 @@
-# first
-nothing just record the first repository
+# Gear_Opencv_Qt
+My first repository
